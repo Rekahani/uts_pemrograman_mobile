@@ -10,4 +10,4 @@
 
 # Output
 
-[gambar.png](/gambar/gambar.png)
+![gambar.png](/gambar/gambar.png)
