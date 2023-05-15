@@ -1,7 +1,5 @@
 # uts_pemrograman_mobile
 
-# TUGAS PERTEMUAN 5 DAN 6 BESERTA PENJELASANNYA
-
 **Nama	: Reka Hani Latifah Nurhasanah** <br>
 
 **NIM	: 312010343** <br>
