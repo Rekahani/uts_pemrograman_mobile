@@ -10,4 +10,4 @@
 
 # Output
 
-![Screenshot (2).png](/gambar/Screenshot (2).png)
+[gambar.png](/gambar/gambar.png)
